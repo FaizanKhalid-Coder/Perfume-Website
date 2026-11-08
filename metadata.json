@@ -1,0 +1,6 @@
+{
+  "name": "Quatréa — Haute Parfumerie",
+  "description": "An immersive scrollytelling luxury perfume e-commerce experience exploring the four seasonal elements of time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
