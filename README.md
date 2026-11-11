@@ -4,7 +4,7 @@ An immersive, cinematic scrollytelling e-commerce website for **Quatréa**, a fi
 
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/5428346b-ded0-4bc9-a202-a7b744b062e1" />
 
-**Live demo:** https://perfume-website-dv9i.vercel.app
+**Live demo:** https://perfume-website-ckqd.vercel.app/
 
 > Quatréa is a fictional brand created for a design and front-end concept project. No real payments are processed.
 
