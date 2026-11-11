@@ -1,6 +1,6 @@
 import { Fragrance } from '../types';
 
-export const HERO_CAP_IMAGE = '/src/assets/images/hero_cap_engraved_1794133615535.jpg';
+export const HERO_CAP_IMAGE = '/images/hero_cap_engraved_1794133615535.jpg';
 
 export const FRAGRANCES: Fragrance[] = [
   {
@@ -15,7 +15,7 @@ export const FRAGRANCES: Fragrance[] = [
     price100ml: 380,
     concentration: 'Extrait de Parfum · 30% Essence',
     family: 'Fresh Floral Aquatic',
-    image: '/src/assets/images/perfume_spring_bloom_1794133616428.jpg',
+    image: '/images/perfume_spring_bloom_1794133616428.jpg',
     accentColor: '#10b981',
     glowColor: 'rgba(16, 185, 129, 0.35)',
     ambientGradient: 'radial-gradient(circle at 50% 50%, rgba(16, 185, 129, 0.18) 0%, rgba(6, 78, 59, 0.08) 50%, transparent 80%)',
@@ -63,7 +63,7 @@ export const FRAGRANCES: Fragrance[] = [
     price100ml: 410,
     concentration: 'Extrait de Parfum · 32% Essence',
     family: 'Solar Citrus Marine',
-    image: '/src/assets/images/perfume_summer_solstice_1794133618588.jpg',
+    image: '/images/perfume_summer_solstice_1794133618588.jpg',
     accentColor: '#f59e0b',
     glowColor: 'rgba(245, 158, 11, 0.35)',
     ambientGradient: 'radial-gradient(circle at 50% 50%, rgba(245, 158, 11, 0.20) 0%, rgba(180, 83, 9, 0.10) 50%, transparent 80%)',
@@ -111,7 +111,7 @@ export const FRAGRANCES: Fragrance[] = [
     price100ml: 420,
     concentration: 'Extrait de Parfum · 33% Essence',
     family: 'Smoky Woody Oriental',
-    image: '/src/assets/images/perfume_autumn_equinox_1794133616543.jpg',
+    image: '/images/perfume_autumn_equinox_1794133616543.jpg',
     accentColor: '#ea580c',
     glowColor: 'rgba(234, 88, 12, 0.35)',
     ambientGradient: 'radial-gradient(circle at 50% 50%, rgba(234, 88, 12, 0.22) 0%, rgba(124, 45, 18, 0.12) 50%, transparent 80%)',
@@ -159,7 +159,7 @@ export const FRAGRANCES: Fragrance[] = [
     price100ml: 450,
     concentration: 'Extrait de Parfum · 35% Essence',
     family: 'Glacial Resinous Wood',
-    image: '/src/assets/images/perfume_winter_frost_1794133617547.jpg',
+    image: '/images/perfume_winter_frost_1794133617547.jpg',
     accentColor: '#38bdf8',
     glowColor: 'rgba(56, 189, 248, 0.35)',
     ambientGradient: 'radial-gradient(circle at 50% 50%, rgba(56, 189, 248, 0.20) 0%, rgba(14, 116, 144, 0.10) 50%, transparent 80%)',
@@ -206,5 +206,5 @@ export const DISCOVERY_COFFRET = {
   price: 135,
   concentration: '4 × 10ml Extrait de Parfum',
   description: 'An elemental journey across the four solstices. Housed in a custom magnetic obsidian presentation box lined with brushed brass and numbered by hand.',
-  image: '/src/assets/images/perfume_summer_solstice_1794133618588.jpg'
+  image: '/images/perfume_summer_solstice_1794133618588.jpg'
 };
